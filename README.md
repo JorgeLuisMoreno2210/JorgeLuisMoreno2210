@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Electronic Engineer | Software Developer<br><br>🚀 Passionate about programming, technology and innovation.  <br>💻 Web Development: HTML, CSS, JavaScript, Bootstrap & Tailwind.  <br>⚙️ Interested in Software Development, IoT, Electronics, PLC & Industrial Automation.  <br>🐧 Linux enthusiast | System Administration | Embedded Systems.  <br>🧠 Always learning, exploring new technologies and building projects.  <br>🎯 Turning ideas into practical solutions through code and creativity.
+👨‍💻 Electronic Engineer | Software Developer<br><br>🚀 Passionate about programming, technology and innovation.  <br>💻 Web Development: HTML, CSS, JavaScript, Tailwind,React,Phyton,C# and Java.  <br>⚙️ Interested in Software Development, IoT, Electronics, PLC & Industrial Automation.  <br>🐧 Linux enthusiast | System Administration | Embedded Systems.  <br>🧠 Always learning, exploring new technologies and building projects.  <br>🎯 Turning ideas into practical solutions through code and creativity.
 
 
 ## 🌐 Socials:
